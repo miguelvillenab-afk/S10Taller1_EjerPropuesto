@@ -1,0 +1,7 @@
+{
+  "tenant_id": "METRO",
+  "producto_id": "BEB001",
+  "nombre": "Gaseosa Inka Kola 3L",
+  "categoria": "Bebidas",
+  "precio": 10.50
+}

@@ -1,0 +1,7 @@
+{
+  "tenant_id": "PLAZA_VEA",
+  "producto_id": "LAC001",
+  "nombre": "Leche Evaporada Gloria Six Pack",
+  "categoria": "Lácteos",
+  "precio": 19.20
+}

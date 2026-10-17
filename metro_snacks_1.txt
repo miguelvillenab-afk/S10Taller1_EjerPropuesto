@@ -1,0 +1,7 @@
+{
+  "tenant_id": "METRO",
+  "producto_id": "SNA001",
+  "nombre": "Papas Lays Clásicas 160g",
+  "categoria": "Snacks",
+  "precio": 5.50
+}
