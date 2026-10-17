@@ -1,6 +1,5 @@
 {
   "tenant_id": "TOTTUS",
   "producto_id": "LIM001",
-  "nombre": "Suavizante Bolivar Aromas 1L",
-  "precio": 8.90
+  "nombre": "Suavizante Bolivar Aromas 1L"
 }
