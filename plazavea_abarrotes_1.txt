@@ -1,6 +1,5 @@
 {
   "tenant_id": "PLAZA_VEA",
   "producto_id": "ARR001",
-  "nombre": "Arroz Costeño Premium 5 Kg",
-  "precio": 18.50
+  "nombre": "Arroz Costeño Premium 5 Kg"
 }
