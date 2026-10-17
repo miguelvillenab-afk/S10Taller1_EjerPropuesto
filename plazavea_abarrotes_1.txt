@@ -2,6 +2,5 @@
   "tenant_id": "PLAZA_VEA",
   "producto_id": "ARR001",
   "nombre": "Arroz Costeño Premium 5 Kg",
-  "categoria": "Abarrotes",
   "precio": 18.50
 }
